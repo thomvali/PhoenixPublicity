@@ -12,7 +12,6 @@ Welcome to the Privacy Policy for Phoenix, a Discord bot designed to verify Robl
 When you use Phoenix, we may collect the following personal information:
 - **Discord User ID**: This is necessary for identifying and interacting with users on Discord.
 - **Roblox User ID**: To perform verification and associated tasks.
-- **Roblox Community Information**: To grant permissions relative to your current Roblox communities and community roles.
 
 ### Usage Data
 We may also collect information on how the bot is accessed and used. This usage data may include information such as your Discord server ID, the time and date of your interactions, and other diagnostic data.
